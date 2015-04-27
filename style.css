@@ -1,0 +1,14 @@
+body {
+	background-color: #2e3037;
+	font-family: 'Quicksand', sans-serif;
+	color: #fff;
+}
+
+h1, h2, h3, a, a:hover, a:visited, a:active, a:focus, a:link {
+	color: #39c0ba;
+	text-decoration: none;
+}
+
+.stella {
+	color: #a64d79;
+}

@@ -1,0 +1,20 @@
+{
+  "name": "edu-stellarity",
+  "version": "0.0.1",
+  "authors": [
+    "Sean Dieterle <sean@stellarity.de>",
+    "Tristan Rechenberger <tristan@stellarity.de>",
+    "Mario Müller <mario@stellarity.de>",
+    "Alexander Alt <alex@stellarity.de>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}

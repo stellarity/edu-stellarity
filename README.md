@@ -1,0 +1,3 @@
+# Website für edu.stellarity.de
+
+nothing to see here...
